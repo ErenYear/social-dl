@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 
 ﻿API_ID = "29916910"
-
 API_HASH = "4d1a40cb4722a0b1a8289b705b6a2228"
 
 BOT_TOKEN = "6398685157:AAGKnMJm3oRHxavLY-MHbXTVa4HeDu_7H-E"
