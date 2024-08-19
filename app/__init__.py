@@ -4,7 +4,7 @@ import tracemalloc
 from dotenv import load_dotenv
 
 
-﻿API_ID = 29916910
+﻿API_ID = "29916910"
 
 API_HASH = "4d1a40cb4722a0b1a8289b705b6a2228"
 
